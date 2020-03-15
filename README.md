@@ -18,3 +18,6 @@ To Run the script.
 Command: node botnet.js http://exemple.com proxies.txt 300
 
 if you have question tel me 
+
+# Nulled Community #
+https://www.nulled.to/topic/1028722-layer-7-http-get-nodejs-with-proxies/
