@@ -4,7 +4,7 @@
 
 # HELP ME #
 
-To use this script you need NODEJS and NPM on your pc
+To use this script you need NODEJS and NPM on your vps or PC ( because you are hacker xD )
 
 1: FIRST install node js yum install nodejs or apt install nodejs
 
